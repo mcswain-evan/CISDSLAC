@@ -1,0 +1,6 @@
+
+{
+  "name": "SLAC Hub",
+  "description": "A professional tool for bibliophiles and researchers to transform a list of book titles into a comprehensive, grounded data table featuring authors, dates, page counts, themes, and Goodreads reviews.",
+  "requestFramePermissions": []
+}
